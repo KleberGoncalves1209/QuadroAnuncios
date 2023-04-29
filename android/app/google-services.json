@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "286392278982",
+    "project_id": "databasequadroanuncio",
+    "storage_bucket": "databasequadroanuncio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286392278982:android:4b4b546753f8c177a49cc7",
+        "android_client_info": {
+          "package_name": "com.mycompany.quadroanuncios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286392278982-nrm6hmuip1t4umevrnjiick1ktks8aqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3dOFfyoF3nxNh7U7TyURmptcCHvaZm5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286392278982-nrm6hmuip1t4umevrnjiick1ktks8aqa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "286392278982-pkhe2hpc3g1eomfh7r1fip7g00jv346d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.quadroanuncios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
